@@ -81,6 +81,7 @@ Well under $100 USD is probably.
 
 - ["DevOps Handbook"](https://www.amazon.com/gp/product/1942788002)
 - [The Phoenix Project"](https://www.amazon.com/gp/product/1942788290)
-
 - ["7 Essential Open Source Devops Projects"](https://www.linux.com/news/7-essential-open-source-devops-projects/)
 - ["Why we use Terrform"](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
+- ["Infrastructure as Code Talk"](https://github.com/brikis98/infrastructure-as-code-talk)
+
