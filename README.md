@@ -43,7 +43,7 @@ Unsorted list taken in part from this [article](https://www.linux.com/news/7-ess
 
 ### Cloud Services
 - \[ ]  [AWS](https://aws.amazon.com)
-- \[ ]  [GC](https://cloud.google.com)
+- \[ ]  [GCP](https://cloud.google.com)
 - \[ ]  [Azure](https://azure.microsoft.com)
 
 
