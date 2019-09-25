@@ -1,7 +1,9 @@
 # devops_dashboard
-A personal dashboard to demonstrate/learn DevOps tools
+A personal dashboard to demonstrate/learn DevOps tools and related concepts and technology.
 
 This is an attempt to flesh out an idea to level up my skills and demonstrate to future employers.
+
+It is not a particle solution but ideally a cobbled set of features using different technologies/stacks together.
 
 ## User Story:
 
@@ -62,6 +64,9 @@ Well under $100 USD is probably.
 
 
 ## References:
+
+- ["DevOps Handbook"](https://www.amazon.com/gp/product/1942788002)
+- [The Phoenix Project"](https://www.amazon.com/gp/product/1942788290)
 
 - ["7 Essential Open Source Devops Projects"](https://www.linux.com/news/7-essential-open-source-devops-projects/)
 - ["Why we use Terrform"](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
