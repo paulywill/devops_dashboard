@@ -21,17 +21,27 @@ The feedback will be a real-time console and flow chart of what is happening.
 
 The main purpose is use the 'User Story' as a pre-text to use a technology. There would rarely be the need for the multiple DevOp tools to be used together, but each feature would in theory attempt to use them to showcase their ability and workings. In the end it would be interesting to 'glue them together'.
 
-Unsorted list taken in part from this [article](https://www.linux.com/news/7-essential-open-source-devops-projects/):
+Unsorted list taken in part from this [article](https://www.linux.com/news/7-essential-open-source-devops-projects/) (_should note:_  grouping is my interpretation)  :
 
+### Configuration Management 
 - \[ ]  [Chef](https://www.chef.io/chef/)
 - \[ ]  [Puppet](https://puppet.com/)
 - \[ ]  [Ansible](https://www.ansible.com/)
 - \[ ]  [SaltStack](https://saltstack.com/)
+
+
+### Provisioning Tools
 - \[ ]  [CloudFormation](https://aws.amazon.com/cloudformation/)
 - \[ ]  [TerraForm](https://www.terraform.io/)
+
+### Containers
 - \[ ]  [Docker](https://www.docker.com/)
 - \[ ]  [Kubernetes](http://kubernetes.io/)
+
+### CI/CD
 - \[ ]  [Jenkins](https://jenkins.io/)
+
+### Cloud Services
 - \[ ]  [AWS](https://aws.amazon.com)
 - \[ ]  [GC](https://cloud.google.com)
 - \[ ]  [Azure](https://azure.microsoft.com)
