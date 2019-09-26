@@ -46,6 +46,11 @@ Unsorted list taken in part from this [article](https://www.linux.com/news/7-ess
 - \[ ]  [GCP](https://cloud.google.com)
 - \[ ]  [Azure](https://azure.microsoft.com)
 
+
+## Bonus:
+
+Could use and showcase multiple front-ends and different languages as well. Uncertain if it's even possible to glue these together or if there has to be a toggle switch.
+
 ### Frameworks and Languages
 - \[ ] [Ruby on Rails (v6+)](https://rubyonrails.org/)
 - \[ ] [ReactJS](https://reactjs.org/)
@@ -53,18 +58,6 @@ Unsorted list taken in part from this [article](https://www.linux.com/news/7-ess
 - \[ ] [Go](https://golang.org)
 - \[ ] [Django](https://www.djangoproject.com)
 - \[ ] [Flask](https://github.com/pallets/flask)
-
-
-
-## Bonus:
-
-Could use and showcase multiple front-ends and different languages as well. Uncertain if it's even possible to glue these together or if there has to be a toggle switch.
-
--
-## Bonus Bonus
-- \[ ] iOS
-- \[ ] Android
-
 
 
 ## Concerns:
