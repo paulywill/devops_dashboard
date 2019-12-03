@@ -58,6 +58,7 @@ Could use and showcase multiple front-ends and different languages as well. Unce
 - \[ ] [Go](https://golang.org)
 - \[ ] [Django](https://www.djangoproject.com)
 - \[ ] [Flask](https://github.com/pallets/flask)
+- \[ ] [TypeScript](https://www.typescriptlang.org/)
 
 
 ## Concerns:
